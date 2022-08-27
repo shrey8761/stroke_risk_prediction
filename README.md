@@ -1,1 +1,3 @@
-# stroke_risk_prediction
+ Stroke_Risk_Prediction
+
+![](ss1.png)
