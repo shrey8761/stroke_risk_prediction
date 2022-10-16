@@ -1,4 +1,4 @@
-select TDenv interpret is used
+select TDenv conda interpret is used 
 Run The App.py as python file
 
 Give all inputs in numeric form
